@@ -1,0 +1,4 @@
+1. pakkage.json -> "main": "server.js",
+2. terminal -> npm i express mongoose dotenv  
+3.              npm i --save-dev nodemon concurrently   // allows us to run server and client at same time
+4.
